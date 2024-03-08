@@ -51,13 +51,10 @@ IMAGE 3 ALT TEXT
 `The roads of Riyadh`
 
 SMALLER SUB HEAD
+$$
+Sources``
 
-`Sources`
-
-LINK 1
-
-`Lonely Planet`
-`http://www.lonelyplanet.com/saudi-arabia/riyadh`
+$$`http://www.lonelyplanet.com/saudi-arabia/riyadh`
 
 LINK 2
 
